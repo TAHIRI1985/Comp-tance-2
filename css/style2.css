@@ -1,0 +1,7 @@
+/*@media queries///////////////////////////////////////////////////////*/
+
+@media screen and (min-width: 1200px) {
+  #coeur {
+    padding-left: 70px;
+  }
+}
